@@ -3,8 +3,11 @@
 ### pigコマンドとは
 スタジオジブリの映画「紅の豚」のオープニングのタイプライターのような雰囲気でテキストファイルを表示するcatコマンドです。
 時代は猫ではなく豚です。<span style="color:green;">@^o .</span>
+
 ![紅の豚](./img/red_pig.jpg)
+
 実行イメージ
+
 ![実行途中](./img/pigCommand.png)
 
 ### curses.h
